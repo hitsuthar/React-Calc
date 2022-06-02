@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "React-Calc",
+    "slug": "React-Calc",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
